@@ -97,8 +97,8 @@ const fkgif = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text":`RaaBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
-                 "title": `RaaBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "text":`SanoBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "title": `SanoBotz MD 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
                  'jpegThumbnail': await (await fetch('https://telegra.ph/file/6f11ac2de8d57a1c831c4.jpg')).buffer()
                         }
 	                  } 
