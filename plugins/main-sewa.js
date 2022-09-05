@@ -17,7 +17,7 @@ let handler = async (m, { conn }) => {
 ├ Rp. 10,000 Pulsa Three
 │
 ├ tertarik? hubungi: 
-    ├ @62895604670507 (The.sad.boy01)
+    ├ @6282239202895 (Alwi)
 └────
 `.trim(),
         "listType": "PRODUCT_LIST",
@@ -36,9 +36,9 @@ let handler = async (m, { conn }) => {
                 "productId": "4730029423700586",
                 "jpegThumbnail": baper
             },
-            "businessOwnerJid": "62895604670507@s.whatsapp.net"
+            "businessOwnerJid": "6282239202895@s.whatsapp.net"
         },
-        "footerText": "https://wa.me/c/62895604670507\n\nowner number : wa.me/62895604670507"
+        "footerText": "https://wa.me/c/6282239202895\n\nowner number : wa.me/6282239202895"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }
