@@ -90,7 +90,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
          externalAdReply: { 
                  sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/', 
              title: `Merespon dalam ${speed} milidetik`, 
-             body: '© Cute IQ-MD By Ziv San', 
+             body: '© Sano-MD By Alwi', 
            thumbnail:  await (await fetch(fla + 'Ping')).buffer()
              } 
       } 
